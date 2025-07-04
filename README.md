@@ -29,5 +29,6 @@ This project contains automated UI tests for the EdTech web application using Se
 
 Run tests on the default Chrome browser and generate an HTML report:
 ```bash
-    pytest -v --html=Reports/report.html
+    pytest -v -s --capture=sys --browser=chrome --headless --html=Reports/loginpagereport_chrome.html
+
 
