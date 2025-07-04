@@ -19,7 +19,7 @@ This project contains automated UI tests for the EdTech web application using Se
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/edtech-webapp-automation.git
+   git clone https://github.com/anihasumitha/EdTech-Web-App-Test-Automation.git
    cd edtech-webapp-automation
 2. Install dependencies:
     ```bash
